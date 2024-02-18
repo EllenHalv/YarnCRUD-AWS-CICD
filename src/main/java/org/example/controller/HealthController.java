@@ -10,6 +10,11 @@ import org.springframework.web.bind.annotation.RestController;
 @CrossOrigin(origins = "*")
 public class HealthController {
 
+
+    @GetMapping("/")
+    public ResponseEntity<?> home() {
+        return new ResponseEntity<>(HttpStatus.OK);
+    }
     @GetMapping("/health")
     public ResponseEntity<?> healthCheck() {
         return new ResponseEntity<>(HttpStatus.OK);
