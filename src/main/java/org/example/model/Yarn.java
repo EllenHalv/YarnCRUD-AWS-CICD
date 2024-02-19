@@ -18,6 +18,6 @@ public class Yarn {
     private String color;
 
     @Column(name = "yarn_weight", nullable = false)
-    private String weight;
+    private int weight;
 
 }
