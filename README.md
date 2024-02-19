@@ -31,7 +31,7 @@ Technical Stack
 
 ### :computer: We can test the endpoints in Postman using Swagger...
 
-Visit Swagger UI to get an overview of the endpoints: [http://yarn-app-env-1.eba-bvcapd7u.us-east-1.elasticbeanstalk.com/swagger-ui.html](http://yarn-app-env-1.eba-bvcapd7u.us-east-1.elasticbeanstalk.com//swagger-ui.html)
+Visit Swagger UI to get an overview of the endpoints: [http://yarn-app-env-1.eba-bvcapd7u.us-east-1.elasticbeanstalk.com/swagger-ui.html](http://yarn-app-env-1.eba-bvcapd7u.us-east-1.elasticbeanstalk.com/swagger-ui.html)
 
 <img src="images/Screenshot 2024-02-18 202624.png" alt="Alt Text" style="width: 650px; height: 250px;">
 
